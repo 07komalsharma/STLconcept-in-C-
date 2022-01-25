@@ -7,9 +7,9 @@ int main(){
 	
   vector<int> v;
   
-  //vector<int> a(5,1);   //all elements initialize with 1
+  vector<int> a(5,1);   //all elements initialize with 1
   
-  vector<int> last(a);
+  //vector<int> last(a);
   
   cout<<"print a"<<endl;
   for(int i=0;i<a.size();i++){
